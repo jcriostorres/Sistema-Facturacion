@@ -9,21 +9,6 @@ constructor(esSintonizador, tamanioEnPulgadas, consumo, procedencia){
     this.precioTelevisor = this.calcularPrecioFinal;
 
 }
-// //metodos
-
-// get esSintonizador() {
-//     return this.esSintonizador;
-// }
-// set esSintonizador(nombre) {
-//     this.esSintonizador = this.esSintonizador;
-// }
-
-// get tamanioEnPulgadas() {
-//     return this.tamanioEnPulgadas;
-// }
-// set tamanioEnPulgadas(nombre) {
-//     this.tamanioEnPulgadas = this.tamanioEnPulgadas;
-// }
 
     
     get calcularPrecioFinal(){

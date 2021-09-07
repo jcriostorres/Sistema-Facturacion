@@ -14,5 +14,6 @@
        //document.write(mave.CalcularPrecioFinal);
        //document.write(electrodomestico.CalcularPrecioFinal);
 
-       let sony = new Televisor(false, 60);
-       console.log(sony);
+       //let sony = new Televisor(false, 60);
+       //console.log(sony);
+      // prompt("hola");
